@@ -1,2 +1,1 @@
-# Miyhya-Q.6
-6. Autocomplete API
+This is a restaurant project for search place & menu.
